@@ -1,13 +1,13 @@
 # ImportMaster – Fusion 360 Add-In
 
-## 🚀 **What it does**
+##  **What it does**
 **Import multiple STEP files directly into the active Fusion 360 design — without opening new document tabs.**
 
 ImportMaster lets you bring many `.STEP / .STP` files into **one active design** quickly and cleanly.
 
 ---
 
-## ✨ What ImportMaster does
+##  What ImportMaster does
 - Imports **multiple STEP files at once**
 - Imports **into the currently active design**
 - ❌ No new documents opened
@@ -22,7 +22,7 @@ Perfect for:
 
 ---
 
-## 🧭 Where is the button?
+##  Where is the button?
 After enabling the add-in, ImportMaster appears as a button in the **Fusion 360 Navigation Toolbar**.
 
 
