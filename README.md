@@ -19,7 +19,12 @@ Perfect for:
 - Vendor parts
 - Reverse-engineering workflows
 - Clean project organization
+---
 
+> ⚠️ **Important**
+> The active design **must be an Assembly or Hybrid design** for ImportMaster to work correctly.
+>  
+> The add-in will not import files in **Single Component** designs.
 ---
 
 ##  Where is the button?
